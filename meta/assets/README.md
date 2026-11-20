@@ -1,0 +1,1 @@
+Images, binaries and similar.
